@@ -7,3 +7,8 @@ You should NOT try to redefine any of the above variables.
 */
 
 // Write your code below this line!
+
+const newID = 1000000001;
+
+const newID = 1000000001;
+
